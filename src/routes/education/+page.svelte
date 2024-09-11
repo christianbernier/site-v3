@@ -24,6 +24,8 @@
 	items={[
 		'Software Engineering',
 		'Artificial Intelligence',
+		'Computer Systems',
+		'Programming Languages',
 		'Object-Oriented Design',
 		'Theory of Computation',
 		'Algorithms and Data',
@@ -37,6 +39,7 @@
 	items={[
 		'Electricity and Magnetism I',
 		'Thermodynamics and Statistical Mechanics',
+		'Classical Dynamics',
 		'Advanced Physics Laboratory',
 		'Electronics',
 		'Modern Physics',
@@ -48,6 +51,7 @@
 	title="Other Relevant Course&shy;work"
 	items={[
 		'Calculus I, II, and III',
+		'Fourier Series and Partial Differential Equations',
 		'Differential Equations and Linear Algebra',
 		'Probability and Statistics',
 		'Advanced Technical Writing'

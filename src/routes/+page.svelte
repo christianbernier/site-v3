@@ -9,7 +9,7 @@
 	<a href="https://home.cern">CERN</a>
 	in Geneva, Switzerland. I have also worked as a software engineer at
 	<a href="https://cisco.com">Cisco Systems</a> and as a teaching assistant for Northeastern’s object-oriented
-	design course (CS 3500).
+	design course (CS 3500) and algorithms course (CS 3000).
 </p>
 <p>
 	I am reachable via email (<a href="mailto:bernier.c@northeastern.edu"

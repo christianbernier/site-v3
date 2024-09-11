@@ -10,7 +10,7 @@
 	link="https://fourier.cbernier.com"
 	technologies="TypeScript, C++ (WASM), SvelteKit"
 	bullets={[
-		'Created interactive demonstration of using the Discrete Fourier Transform to approximate a 2D path',
+		'Created interactive demonstration of Fourier series using the discrete Fourier transform to approximate a 2D path',
 		'Explored WebAssembly to enhance the speed of calculations for user-generated paths'
 	]}
 />
