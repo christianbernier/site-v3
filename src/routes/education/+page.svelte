@@ -25,6 +25,7 @@
 		'Software Engineering',
 		'Artificial Intelligence',
 		'Computer Systems',
+		'Network Fundamentals',
 		'Programming Languages',
 		'Object-Oriented Design',
 		'Theory of Computation',
@@ -37,7 +38,8 @@
 <LabeledList
 	title="Physics Courses"
 	items={[
-		'Electricity and Magnetism I',
+		'Electricity and Magnetism I and II',
+		'Quantum Mechanics',
 		'Thermodynamics and Statistical Mechanics',
 		'Classical Dynamics',
 		'Advanced Physics Laboratory',
@@ -53,6 +55,7 @@
 		'Calculus I, II, and III',
 		'Fourier Series and Partial Differential Equations',
 		'Differential Equations and Linear Algebra',
+		'Cryptography',
 		'Probability and Statistics',
 		'Advanced Technical Writing'
 	]}
