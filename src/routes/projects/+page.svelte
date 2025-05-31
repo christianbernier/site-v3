@@ -5,6 +5,17 @@
 <h1 class="page__title">Projects</h1>
 
 <Project
+	title="Photo Blog"
+	dates="December 2023 – present"
+	link="https://potd.cbernier.com"
+	technologies="TypeScript, SvelteKit, PostgreSQL"
+	bullets={[
+		'Developed personal blog to post a photo every day, served by a PostgreSQL database and S3 bucket',
+		'Implemented automatic image compression for the ability to quickly add photos on-the-go'
+	]}
+/>
+
+<Project
 	title="Fourier Fun"
 	dates="June 2024"
 	link="https://fourier.cbernier.com"
@@ -12,17 +23,6 @@
 	bullets={[
 		'Created interactive demonstration of Fourier series using the discrete Fourier transform to approximate a 2D path',
 		'Explored WebAssembly to enhance the speed of calculations for user-generated paths'
-	]}
-/>
-
-<Project
-	title="Photo Blog"
-	dates="December 2023 – February 2024"
-	link="https://blog.cbernier.com"
-	technologies="TypeScript, SvelteKit, PostgreSQL"
-	bullets={[
-		'Developed personal blog to post a photo every day, served by a PostgreSQL database and S3 bucket',
-		'Implemented automatic image compression for the ability to quickly add photos on-the-go'
 	]}
 />
 

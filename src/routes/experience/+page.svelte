@@ -5,6 +5,20 @@
 <h1 class="page__title">Experience</h1>
 
 <Job
+	imageSource="cisco.png"
+	companyName="Cisco Systems"
+	positionTitle="Software Engineering II"
+	dates="June 2025 – present"
+	location="Boston, MA"
+	description="As a software engineering at Cisco, I am a member of a fast-paced agile development team building a cloud security product. I contribute to all stages of the development process in one-week sprints, working with engineers around the world."
+	responsibilities={[
+		'Develop full-stack features used billions of times daily for a cloud security product in an agile scrum team',
+		'Collaborate with team to design extensible and reusable models through code reviews and architecture discussions',
+		'Implement and improve dozens of user interfaces for critical features, improving usability and functionality'
+	]}
+/>
+
+<Job
 	imageSource="cern.png"
 	companyName="European Organization for Nuclear Research (CERN)"
 	positionTitle="Particle Physics Research Assistant Co-op"
@@ -19,30 +33,16 @@
 />
 
 <Job
-	imageSource="cisco.png"
-	companyName="Cisco Systems"
-	positionTitle="Software Engineering Co-op"
-	dates="January 2023 – August 2023"
-	location="Boston, MA"
-	description="As a full-stack software engineering co-op at Cisco, I was a member of a fast-paced agile development team building a cloud security product. I contributed to all stages of the development process in one-week sprints, working with engineers around the world."
-	responsibilities={[
-		'Developed full-stack features used billions of times daily for a cloud security product in an agile scrum team',
-		'Collaborated with team to design extensible and reusable models through code reviews and architecture discussions',
-		'Implemented and improved dozens of user interfaces for critical features, improving usability and functionality'
-	]}
-/>
-
-<Job
 	imageSource="khoury.png"
 	companyName="Khoury College of Computer Sciences"
 	positionTitle="Teaching Assistant"
-	dates="September 2023 – December 2023"
+	dates="September 2023 – May 2025"
 	location="Boston, MA"
-	description="As a teaching assistant, I provided supportive and productive environments where students could ask questions, receive help, and understand difficult concepts from lectures. I was a TA for CS 3500 (Object-Oriented Design)."
+	description="As a teaching assistant, I provided supportive and productive environments where students could ask questions, receive help, and understand difficult concepts from lectures. I was a TA for theory of computation (CS 3800), object-oriented design (CS 3500), and algorithms and data structures (CS 3000)."
 	responsibilities={[
-		'Explain complex lecture and homework content to students through 4 drop-in office hours per week',
-		'Mentor 40 students weekly in 100-minute lab periods by proctoring interactive activities and answering questions',
-		'Conduct code reviews, grade assignments, and provide detailed and meaningful feedback for students weekly'
+		'Explained complex lecture and homework content to students through 4 drop-in office hours per week',
+		'Mentored 40 students weekly in 100-minute lab periods by proctoring interactive activities and answering questions',
+		'Conducted code reviews, graded assignments, and provided detailed and meaningful feedback for students weekly'
 	]}
 />
 

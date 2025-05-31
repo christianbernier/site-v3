@@ -9,14 +9,14 @@
 	imageSource="northeastern.png"
 	name="Northeastern University"
 	location="Boston, MA"
-	datesAttended="September 2021 – May 2025 (expected)"
+	datesAttended="September 2021 – May 2025"
 	subtitle="Khoury College of Computer Sciences"
-	degree="Bachelors of Science, Computer Science and Physics"
+	degree="Bachelor of Science, Computer Science and Physics"
 />
 
 <LabeledList
 	title="Honors and Awards"
-	items={['Honors College', "Dean's List", 'Academic Excellence in Physics']}
+	items={['Summa Cum Laude', 'Honors College', "Dean's List", 'Academic Excellence in Physics']}
 />
 <hr />
 <LabeledList
