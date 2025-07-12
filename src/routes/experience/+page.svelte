@@ -7,10 +7,10 @@
 <Job
 	imageSource="cisco.png"
 	companyName="Cisco Systems"
-	positionTitle="Software Engineering II"
+	positionTitle="Software Engineer"
 	dates="June 2025 – present"
 	location="Boston, MA"
-	description="As a software engineering at Cisco, I am a member of a fast-paced agile development team building a cloud security product. I contribute to all stages of the development process in one-week sprints, working with engineers around the world."
+	description="As a software engineer at Cisco, I am a member of a fast-paced agile development team building a cloud security product. I contribute to all stages of the development process in one-week sprints, working with engineers around the world."
 	responsibilities={[
 		'Develop full-stack features used billions of times daily for a cloud security product in an agile scrum team',
 		'Collaborate with team to design extensible and reusable models through code reviews and architecture discussions',
